@@ -1,0 +1,2 @@
+Akita,5,12
+Azawakh,4,15
